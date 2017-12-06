@@ -16,7 +16,7 @@
 title: Hacks and other Things
 email: marcus.voelker@rwth-aachen.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Code, reviews and other random ramblings
+  Code, maths, random thoughts, unrandom thoughts
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "marcusvoelker.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Sacchan
